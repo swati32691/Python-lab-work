@@ -1,0 +1,14 @@
+a = 12
+
+b = 21
+
+temp = a
+
+a = b
+
+b = temp
+
+print("value of a is: ", a)
+
+print("value of b is: ", b)
+
