@@ -1,0 +1,6 @@
+t1 = (1, 54, 34, 76, 83, 29, 19, 73)
+
+size = len(t1)
+
+print(f"The size of t1 is {size}")
+
